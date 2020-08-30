@@ -1,2 +1,3 @@
 # nouvelle_techno_learn_github
 Learn github
+This is a little project about learning to use git and github
